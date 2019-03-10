@@ -7,3 +7,25 @@ Layout:
     - Content
           - Games, Comic, Clip of Animatic, Background Design Project, Pieces I'm happy about showing off, story boards, character designs, concepts, thumbnailing.
 */
+
+/*
+   Idea to Carosel Images (Diff Categories?)
+
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<!------ Include the above in your HEAD tag ---------->
+
+<div class="container">
+	<div class="row">
+		<div class="MultiCarousel" data-items="1,3,5,6" data-slide="1" id="MultiCarousel"  data-interval="1000">
+            <div class="MultiCarousel-inner">
+                <div class="item">
+                    <div class="pad15">
+                        <p class="lead">Multi Item Carousel</p>
+                        <p>₹ 1</p>
+                        <p>₹ 6000</p>
+                        <p>50% off</p>
+                    </div>
+                </div>
+*/
