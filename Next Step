@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"/>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="http://v4-alpha.getbootstrap.com/favicon.ico">
+
+
+<center><h1>Devan Chaney</h1></center>
+    <!-- Bootstrap core CSS -->
+    <link href="http://v4-alpha.getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="http://v4-alpha.getbootstrap.com/examples/navbar-top-fixed/navbar-top-fixed.css" rel="stylesheet">
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="http://v4-alpha.getbootstrap.com/assets/js/ie10-viewport-bug-workaround.js"></script>
+  </head>
+
+  <body>
+
+    <div class="pos-f-t">
+      <div class="collapse" id="navbar-header">
+        <div class="container-fluid inverse p-a">
+          <h3><title>Fixed top navbar example for Bootstrap</title></h3>
+          <p><center>  <a href="Home Page">Home</a> | <b>Devan</b> |<a href="Alex's Page"> Alex</a> |<a href="Lexie's Page"> Lexie</a> | <a href="Taylor's Page"> Taylor</a> </center></p>
+&nbsp;&nbsp;
+          <p2><center> <a href="#Introduction">Introduction</a> | <a href="#Projects">Projects</a> |<a href="#Resume"> Resume</a> |<a href="#Skills"> Skills</a>
+        </div>
+      </div>
+      <div class="navbar navbar-default navbar-static-top">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-header">
+          ☰
+        </button>
+      </div>
+    </div>
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="http://v4-alpha.getbootstrap.com/dist/js/bootstrap.min.js"></script>
+
+
+</body>
+</html>
+<html>
+  <title>Team Website</title>
+  <style> /*Link to outside source (href) */
+  body{
+    text-align:center;
+    color:grey;
+    background-color:Silver;
+    font-size: 15px;
+    font-style: monospace;
+    background: black;
+  }
+  .smaller-image{
+    width:200px;
+  }
+  .bold-border {
+    border-color: #2be2ae;
+    border-width: 5px;
+    border-radius: 100px;
+    border-style: solid;
+  }
+  h2{
+    color: white;
+    font-size: 50px;
+  }
+  h3{
+    color: silver;
+    font-size: 20px;
+  }
+  p{
+    font-style: bold;
+  }
+  </style>
+  <body>
+    <h2>Welcome to the Team!</h2>
+
+      <center><img class ="smaller-image bold-border" src="https://cdn.discordapp.com/attachments/405447054802944021/544399338177298433/U3LFRN_9_400x400.jpg" alt="Devan Chaney"><center></img>
+&nbsp;&nbsp;
+      <h2 id= "Introduction"> Introduction </h2>
+      <p> Heya! My name is Devan and I'm a Gaming, Interactive, Media & Mobile major at Boise State University. I enjoy the visual/sound aspect of gaming and mainly have a knack for animation. I am currently gathering information for a "choice simulator" game idea, looking to make it from scratch or using Tyrano Builder. I enjoy playing games that have amazing visuals/music like Moonlighter, Pyre, Hotline Miami, and many more!</p>
+</body>
+&nbsp;&nbsp;
+<h2 id="Projects">Projects </h2>
+&nbsp;&nbsp;
+<h3> Wordpress Website </h3>
+<center><img class= "img-responsive screenshots" src="https://cdn.discordapp.com/attachments/411281224607465504/555898770827771924/Wordpress1.PNG" alt="First Screenshot of Wordpress"></center>
+<center><img class= "img-responsive screenshots" src="https://cdn.discordapp.com/attachments/411281224607465504/555898786203828235/Wordpress2.PNG" alt="Second Screenshot of Wordpress"></center>
+<center><img class= "img-responsive screenshots" src="https://cdn.discordapp.com/attachments/411281224607465504/555898797268664352/Wordpress3.PNG" alt="Third Screenshot of Wordpress"></center>
+<center><img class= "img-responsive screenshots" src="https://cdn.discordapp.com/attachments/411281224607465504/555898809935200268/Wordpress4.PNG" alt="Fourth Screenshot of Wordpress"></center>
+
+&nbsp;&nbsp;
+
+<h3> Background Design Project </h3>
+<center><img class= "img-responsive screenshots" src="https://cdn.discordapp.com/attachments/411281224607465504/555904827490828319/RxSRZJlj.jpg" alt="Background Design Project"></center>
+
+<center><img class= "img-responsive screenshots" src="https://cdn.discordapp.com/attachments/411281224607465504/555904315357659153/Chaney_Devan_Background_Design_Project.png" alt="Background Design Project"></center>
+
+&nbsp;&nbsp;
+
+<h3>Sheep Herder Group Game</h3>
+<center><h3>Link to <a href="https://www.youtube.com/watch?v=xrCC4rfqn2Q&feature=youtu.be">Trailer</a></h3></center>
+
+&nbsp;&nbsp;
+
+<h3> ENGR 150: BackTech </h3>
+<center> <img class= "img-responsive screenshots" src="https://cdn.discordapp.com/attachments/405447054802944021/556615586696790036/BackTech.PNG" alt="BackTech"></center>
+
+&nbsp;&nbsp;
+
+<h3> Animation </h3>
+<center> <img class= "img-responsive screenshots" src="https://cdn.discordapp.com/attachments/405447054802944021/556613075042828299/BouncingBall.gif" alt="Bouncing Ball"></center>
+
+<center> <img class= "img-responsive screenshots" src="https://cdn.discordapp.com/attachments/405447054802944021/556612430680162327/StoryboardGIMM.png" alt="Storyboard"></center>
+
+<center> <img class= "img-responsive screenshots" src="https://cdn.discordapp.com/attachments/405447054802944021/556612392700739605/Background.jpg" alt="Thumbnails"></center>
+
+<center> <img class= "img-responsive screenshots" src="https://cdn.discordapp.com/attachments/405447054802944021/556612456391245824/MinstrelExpressions.jpg" alt="Expression"></center>
+&nbsp;&nbsp;
+
+<h2 id="Resume"> Resume </h2>
+
+<p> Experience </p>
+<center><body> Freelance Illustrator (Current).</body></center>
+<center><body>Freshii Team Member (Oct. 2018 - Feb. 2019).</body></center>
+<center><body>Jack in the Box Team Member (May 2018 - Aug. 2018).</body></center>
+
+&nbsp;&nbsp;
+
+<p> Education</p>
+<center><body> Boise State University (Aug. 2018 - Current). </center></body>
+<center><body><center><body> Vista Del Lago High School (Aug. 2014 - June 2017).</center></body>
+
+&nbsp;&nbsp;
+
+<p> Awards</p>
+<center><body> Participated in Free Write Contest at Boise State University for the Creative Writing Club.</center></body>
+<center><body> Graduated High School with Magna Cum Laude as number nine in my senior class in high school.</center></body>
+<center><body> Was accepted and inducted into the National Honor Society at my high school at the beginning of my junior year which I received a certificate for.</center></body>
+
+&nbsp;&nbsp;
+
+<h2 id="Skills"> Skills </h2>
+<center><body>I am hardworking and committed student. I have the ability to work with a team, but also can work well as an individual. I have a strong tenacity plus a combined set of great communication and listening skills. I also excel at any task I am given and dedicated meet deadlines. Will quickly pick up skills required in the workspace.</body></center>
+</p>
+</body>
+</html>
