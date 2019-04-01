@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"/>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="http://v4-alpha.getbootstrap.com/favicon.ico">
+
+<center><h1>Devan Chaney</h1></center>
+<center><img class= "img-responsive screenshots" src="https://cdn.discordapp.com/attachments/411281224607465504/555904315357659153/Chaney_Devan_Background_Design_Project.png" alt="Background Design Project"></center>
+
+    <!-- Bootstrap core CSS -->
+    <link href="http://v4-alpha.getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="http://v4-alpha.getbootstrap.com/examples/navbar-top-fixed/navbar-top-fixed.css" rel="stylesheet">
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="http://v4-alpha.getbootstrap.com/assets/js/ie10-viewport-bug-workaround.js"></script>
+  </head>
+
+  <body>
+    <div class="pos-f-t">
+      <div class="collapse" id="navbar-header">
+        <div class="container-fluid inverse p-a">
+          <h3><title>Fixed top navbar example for Bootstrap</title></h3>
+          <p><center>  <b>Home</b> | <a href="AboutMe">About Me</a> |<a href="Boise State University"> Boise State University</a> |<a href="Portfolio"> Portfolio</a> | <a href="Resume"> Resume</a> </center></p>
+        </div>
+      </div>
+      <div class="navbar navbar-default navbar-static-top">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-header">
+          ☰
+        </button>
+      </div>
+    </div>
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="http://v4-alpha.getbootstrap.com/dist/js/bootstrap.min.js"></script>
+
+<body>
+<head>
+  <title>AboutMe</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-sm-3" style="background: linear-gradient(360deg, #aaffbe,#aac7ff);;"></div>
+    <div class="col-sm-6" style="background-color: white;"><center><h2 id= "Home"> The Foundry </h2>
+
+  &nbsp;&nbsp;
+
+<p> Welcome to the inner workings of Devan and how she functions. </p>
+    </center></div>
+    <div class="col-sm-3" style="background: linear-gradient(360deg, #aaffbe,#aac7ff);"></div>
+  </div>
+</div>
+
+</body>
+
+
+</html>
