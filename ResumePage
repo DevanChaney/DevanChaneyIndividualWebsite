@@ -28,7 +28,7 @@
       <div class="collapse" id="navbar-header">
         <div class="container-fluid inverse p-a">
           <h3><title>Fixed top navbar example for Bootstrap</title></h3>
-          <p><center> <a href= "Home"> Home</a> | <a href="AboutMe">About Me</a> |<a href="Boise State University"> Boise State University</a> |<a href="Portfolio"> Portfolio</a> | <b>Resume</b> </center><p>
+          <p><center> <a href= "Home.html"> Home</a> | <a href="AboutMe.html">About Me</a> |<a href="BoiseStateUniversity.html"> Boise State University</a> |<a href="Portfolio.html"> Portfolio</a> | <b>Resume</b> </center><p>
         </div>
       </div>
       <div class="navbar navbar-default navbar-static-top">
@@ -61,9 +61,9 @@
     <div class="col-sm-3" style="background: linear-gradient(360deg, #aaffbe,#aac7ff);;"></div>
     <div class="col-sm-6" style="background-color: white;"><center><h2 id= "Resume"> Resume </h2>
 
-  &nbsp;&nbsp;
-
-<p> </p>
+<p> <center><img class = "img-responsive smaller-image thin-black-border" src="https://cdn.discordapp.com/attachments/405447054802944021/562070917123932162/unknown.png" alt="Resume1"></center> </p>
+<p> <center><img class = "img-responsive smaller-image thin-black-border" src="https://cdn.discordapp.com/attachments/411281224607465504/562072709433917443/unknown.png" alt="Resume2"></center> </p>
+<p> <center><img class = "img-responsive smaller-image thin-black-border" src="https://cdn.discordapp.com/attachments/411281224607465504/562072802346270771/unknown.png" alt="Resume3"></center> </p>
     </center></div>
     <div class="col-sm-3" style="background: linear-gradient(360deg, #aaffbe,#aac7ff);"></div>
   </div>
