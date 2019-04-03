@@ -28,7 +28,7 @@
       <div class="collapse" id="navbar-header">
         <div class="container-fluid inverse p-a">
           <h3><title>Fixed top navbar example for Bootstrap</title></h3>
-          <p><center> <a href= "Home"> Home</a> | <b> About Me </b> |<a href="Boise State University"> Boise State University</a> |<a href="Portfolio"> Portfolio</a> | <a href="Resume"> Resume</a> </center><p>
+          <p><center> <a href= "Home.html"> Home</a> | <b> About Me </b> |<a href="BoiseStateUniversity.html"> Boise State University</a> |<a href="Portfolio.html"> Portfolio</a> | <a href="Resume.html"> Resume</a> </center><p>
         </div>
       </div>
       <div class="navbar navbar-default navbar-static-top">
@@ -61,8 +61,8 @@
     <div class="col-sm-3" style="background: linear-gradient(360deg, #aaffbe,#aac7ff);;"></div>
     <div class="col-sm-6" style="background-color: white;"><center><h2 id= "AboutMe"> About Me </h2>
 <center><img class= "img-responsive screenshots" src="https://cdn.discordapp.com/attachments/405447054802944021/544399338177298433/U3LFRN_9_400x400.jpg" alt="Devan Chaney"><center></img>
-
   &nbsp;&nbsp;
+
 
 <p> Heya! My name is Devan and I'm a Gaming, Interactive, Media & Mobile major at Boise State University. I enjoy the visual/sound aspect of gaming and mainly have a knack for animation. I am currently gathering information for a "choice simulator" game idea, looking to make it from scratch or using Tyrano Builder. I enjoy playing games that have amazing visuals/music like Moonlighter, Pyre, Hotline Miami, Risk of Rain 2, and many more!</p>
     </center></div>
