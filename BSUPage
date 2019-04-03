@@ -28,7 +28,7 @@
       <div class="collapse" id="navbar-header">
         <div class="container-fluid inverse p-a">
           <h3><title>Fixed top navbar example for Bootstrap</title></h3>
-          <p><center> <a href= "Home"> Home</a> | <a href="AboutMe">About Me</a> |<b> Boise State University </b> |<a href="Portfolio"> Portfolio</a> | <a href="Resume"> Resume</a> </center><p>
+          <p><center> <a href= "Home.html"> Home</a> | <a href="AboutMe.html">About Me</a> |<b> Boise State University </b> |<a href="Portfolio.html"> Portfolio</a> | <a href="Resume.html"> Resume</a> </center><p>
         </div>
       </div>
       <div class="navbar navbar-default navbar-static-top">
@@ -58,18 +58,86 @@
 
 <div class="container-fluid">
   <div class="row">
-    <div class="col-sm-3" style="background: linear-gradient(360deg, #aaffbe,#aac7ff);;"></div>
-    <div class="col-sm-6" style="background-color: white;"><center><h2 id= "Boise State University"> Boise State University </h2>
+    <div class="col-sm-3" style="background: linear-gradient(360deg, #aaffbe,#aac7ff);;">
+
+    <p><center><a href=#ENGL100> English 100</a></p>
+    <p> <a href= "#ENGR150"> Engineering 150</a></p>
+    <p><a href= #UF100> Universal Foundations 100 </a></p>
+    <p><a href= #GIMM150> GIMM 150 </a></p>
+    <p><a href= #GIMM250> GIMM 250 </a></p>
+    <p><a href= #GIMM270>GIMM 270</a></p>
+    <p><a href= #GIMM300>GIMM 300</a></p>
+    </center></div>
+
+    <div class="col-sm-6" style="background-color: white;"><center><h2 id= "Boise State University"> Boise State University Projects </h2>
 
   &nbsp;&nbsp;
+<p>This is not everything I have saved. I have much more that has somehow been lost in the deep files of a scrapped together laptop! This showcases some of the endevours I have undertaken.</p>
+  &nbsp;&nbsp;
 
-<p> </p>
+<h2 id= "ENGL100">English 100</h2>
+<center><p> Identity Variable Presentation for Professor Christopher Michas</p><center>
+<center><img class= "img-responsive screenshots" src="https://cdn.discordapp.com/attachments/405447054802944021/562752218470809603/unknown.png" alt="Identity Variable"></center>
+&nbsp;&nbsp;
+<p>I was tasked with presenting the research thesis of: "By pursuing some type of art form, one may benefit in many ways positively from actively doing said activity, particularly with how engaged they are." through a intensely researched presentation as well as an interview with Mark A. Runco at the University of Georgia.</p>
+&nbsp;&nbsp;
+
+<h2 id= "ENGR150">Engineering 150</h2>
+<p>Team Project: Useful Invention for Professor Krishna Pakala </p>
+<center> <img class= "img-responsive screenshots" src="https://cdn.discordapp.com/attachments/405447054802944021/556615586696790036/BackTech.PNG" alt="BackTech"></center>
+&nbsp;&nbsp;
+<p>Five individuals, including myself, were tasked with thinking about a useful invention, planning it out, prototyping, and finally showcasing it at the Senior Showcase for the Engineering Department.</p>
+
+&nbsp;&nbsp;
+
+<h2 id= "UF100">Universal Foundations 100</h2>
+<p>Individual Identity Variable Continued</p>
+<p>Link to <a href="https://youtu.be/su1iA0ZDXsk">Recorded Presentation</a></p>
+<p> I expanded upon my original presentation and resurrected it for my UF 100 course. It had a much stricter focus and a clear confidence when presenting the topic.</p>
+&nbsp;&nbsp;
+
+<h2 id= "GIMM150">GIMM 150</h2>
+<p>The first GIF is of a basic animation lesson called the Bouncing Ball.</p>
+&nbsp;&nbsp;
+<center> <img class= "img-responsive screenshots" src="https://cdn.discordapp.com/attachments/405447054802944021/556613075042828299/BouncingBall.gif" alt="Bouncing Ball"></center>
+&nbsp;&nbsp;
+<p>The next images were for an animatic I worked on by myself to the music of Darren Korb: Vagrant's Song for the Pyre OST. First the storyboard, then thumbnails of certain scenes, then finally emotions of the main character.</p>
+<center> <img class= "img-responsive screenshots" src="https://cdn.discordapp.com/attachments/405447054802944021/556612430680162327/StoryboardGIMM.png" alt="Storyboard"></center>
+<center> <img class= "img-responsive screenshots" src="https://cdn.discordapp.com/attachments/405447054802944021/556612392700739605/Background.jpg" alt="Thumbnails"></center>
+<center> <img class= "img-responsive screenshots" src="https://cdn.discordapp.com/attachments/405447054802944021/556612456391245824/MinstrelExpressions.jpg" alt="Expression"></center>
+&nbsp;&nbsp;
+
+&nbsp;&nbsp;
+<h2 id= "GIMM250">GIMM 250</h2>
+<p>Background Design Project for Professor Amod Damle</p>
+<center><img class= "img-responsive screenshots" src="https://cdn.discordapp.com/attachments/411281224607465504/555904827490828319/RxSRZJlj.jpg" alt="Background Design Project"></center>
+&nbsp;&nbsp;
+<center><img class= "img-responsive screenshots" src="https://cdn.discordapp.com/attachments/411281224607465504/555904315357659153/Chaney_Devan_Background_Design_Project.png" alt="Background Design Project"></center>
+&nbsp;&nbsp;
+<p>Our prompt for the background design project was to create a "Post Apocolaypse Boise". I took a shuttle downtown one day and snapped the orignial photo. After 40+ hours, we have the final result.</p>
+&nbsp;&nbsp;
+
+<h2 id= GIMM270>GIMM 270</h2>
+<p> Sheep Herder Game Trailer</p>
+<p>Built a game in GIMM 100 with two others, Alex Chaney and Alex Collette. Was tasked to make a trailer for it in the 270 course.</p>
+
+<p>Link to <a href="https://www.youtube.com/watch?v=xrCC4rfqn2Q&feature=youtu.be">Trailer</a></p>
+
+&nbsp;&nbsp;
+
+<h2 id= GIMM300>GIMM 300</h2>
+<p> Wordpress Website: Individual</p>
+<p>I was tasked with setting up an ec2 through AWS in order to run an instance of Worpress for my website.</p>
+<center><img class= "img-responsive screenshots" src="https://cdn.discordapp.com/attachments/411281224607465504/555898770827771924/Wordpress1.PNG" alt="First Screenshot of Wordpress"></center>
+<center><img class= "img-responsive screenshots" src="https://cdn.discordapp.com/attachments/411281224607465504/555898786203828235/Wordpress2.PNG" alt="Second Screenshot of Wordpress"></center>
+<center><img class= "img-responsive screenshots" src="https://cdn.discordapp.com/attachments/411281224607465504/555898797268664352/Wordpress3.PNG" alt="Third Screenshot of Wordpress"></center>
+<center><img class= "img-responsive screenshots" src="https://cdn.discordapp.com/attachments/411281224607465504/555898809935200268/Wordpress4.PNG" alt="Fourth Screenshot of Wordpress"></center>
+
     </center></div>
     <div class="col-sm-3" style="background: linear-gradient(360deg, #aaffbe,#aac7ff);"></div>
   </div>
 </div>
 
+
 </body>
-
-
 </html>
