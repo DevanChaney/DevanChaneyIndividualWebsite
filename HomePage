@@ -28,10 +28,11 @@
       <div class="collapse" id="navbar-header">
         <div class="container-fluid inverse p-a">
           <h3><title>Fixed top navbar example for Bootstrap</title></h3>
-          <p><center>  <b>Home</b> | <a href="AboutMe">About Me</a> |<a href="Boise State University"> Boise State University</a> |<a href="Portfolio"> Portfolio</a> | <a href="Resume"> Resume</a> </center></p>
+          <p><center>  <b>Home</b> | <a href="AboutMe.html">About Me</a> |<a href="BoiseStateUniversity.html"> Boise State University</a> |<a href="Portfolio.html"> Portfolio</a> | <a href="Resume.html"> Resume</a> </center></p>
         </div>
       </div>
-      <div class="navbar navbar-default navbar-static-top">
+      <div class="navbar navbar-default navbar
+      -static-top">
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-header">
           ☰
         </button>
@@ -63,7 +64,14 @@
 
   &nbsp;&nbsp;
 
-<p> Welcome to the inner workings of Devan and how she functions. </p>
+<p> Welcome to the inner workings of Devan and how she functions. Here you will find:</p>
+
+&nbsp;&nbsp;
+
+<center> <p> About Me Section</p> </center>
+<center> <p> Various BSU Projects</p> </center>
+<center> <p> Other Works Outside of BSU into the Portfolio</p> </center>
+<center> <p> Up to Date Resume</p> </center>
     </center></div>
     <div class="col-sm-3" style="background: linear-gradient(360deg, #aaffbe,#aac7ff);"></div>
   </div>
