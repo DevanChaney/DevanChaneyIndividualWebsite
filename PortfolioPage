@@ -28,7 +28,7 @@
       <div class="collapse" id="navbar-header">
         <div class="container-fluid inverse p-a">
           <h3><title>Fixed top navbar example for Bootstrap</title></h3>
-          <p><center> <a href= "Home"> Home</a> | <a href="AboutMe">About Me</a> |<a href="Boise State University"> Boise State University</a> |<b> Portfolio</b> | <a href="Resume"> Resume</a> </center><p>
+          <p><center> <a href= "Home.html"> Home</a> | <a href="AboutMe.html">About Me</a> |<a href="BoiseStateUniversity.html"> Boise State University</a> |<b> Portfolio</b> | <a href="Resume.html"> Resume</a> </center><p>
         </div>
       </div>
       <div class="navbar navbar-default navbar-static-top">
@@ -62,8 +62,49 @@
     <div class="col-sm-6" style="background-color: white;"><center><h2 id= "Portfolio"> Portfolio Works </h2>
 
   &nbsp;&nbsp;
+<p>Most of the contents of this page show off character design, ability to change my style, and development of certain chaaracters. All original!</p>
+<p>
+<center><img class= "img-responsive screenshots" src="https://cdn.discordapp.com/attachments/164298870606528514/529555936633946112/IMG_20181231_235851_296.jpg" alt=""></center>
+  &nbsp;&nbsp;
+<center><img class= "img-responsive screenshots" src="https://cdn.discordapp.com/attachments/164298870606528514/532038839535927306/EdrynBosnen-1.png" alt=""></center>
+  &nbsp;&nbsp;
+<center><img class= "img-responsive screenshots" src="https://cdn.discordapp.com/attachments/164298870606528514/532836210704646155/EdrynCute.png" alt=""></center>
+  &nbsp;&nbsp;
+<center><img class= "img-responsive screenshots" src="https://cdn.discordapp.com/attachments/164298870606528514/532882093957447680/DevIcon2019.png" alt=""></center>
+  &nbsp;&nbsp;
+<center><img class= "img-responsive screenshots" src="https://cdn.discordapp.com/attachments/164298870606528514/533091213218152449/NottBrave.png" alt=""></center>
+    &nbsp;&nbsp;
+<center><img class= "img-responsive screenshots" src="https://cdn.discordapp.com/attachments/164298870606528514/533091234135408670/BosnenCool.png" alt=""></center>
+  &nbsp;&nbsp;
+<center><img class= "img-responsive screenshots" src="https://cdn.discordapp.com/attachments/164298870606528514/533091272223752192/ElementsEdryn.png" alt=""></center>
+  &nbsp;&nbsp;
+<center><img class= "img-responsive screenshots" src="https://cdn.discordapp.com/attachments/164298870606528514/540383073230127106/EdrynNotes.png" alt=""></center>
+  &nbsp;&nbsp;
+<center><img class= "img-responsive screenshots" src="https://cdn.discordapp.com/attachments/164298870606528514/540813712370696192/SpiderSona.png" alt=""></center>
+  &nbsp;&nbsp;
+<center><img class= "img-responsive screenshots" src="https://cdn.discordapp.com/attachments/164298870606528514/551486484738211888/NewFish-1.png" alt=""></center>
+  &nbsp;&nbsp;
+<center><img class= "img-responsive screenshots" src="https://cdn.discordapp.com/attachments/164298870606528514/551486540988153867/NewFish2.png" alt=""></center>
+  &nbsp;&nbsp;
+<center><img class= "img-responsive screenshots" src="https://cdn.discordapp.com/attachments/164298870606528514/553143434047651851/unknown.png" alt=""></center>
+  &nbsp;&nbsp;
+<center><img class= "img-responsive screenshots" src="https://cdn.discordapp.com/attachments/164298870606528514/554793959126335488/CritterDeck.png" alt=""></center>
+  &nbsp;&nbsp;
+<center><img class= "img-responsive screenshots" src="https://cdn.discordapp.com/attachments/164298870606528514/558150530929524737/IMG_20190320_104233_462.jpg" alt=""></center>
+  &nbsp;&nbsp;
+<center><img class= "img-responsive screenshots" src="https://cdn.discordapp.com/attachments/164298870606528514/558150637360119818/NewFish7.png" alt=""></center>
+  &nbsp;&nbsp;
+<center><img class= "img-responsive screenshots" src="https://cdn.discordapp.com/attachments/164298870606528514/558218729620766720/MobPsycho.png" alt=""></center>
+  &nbsp;&nbsp;
+<center><img class= "img-responsive screenshots" src="https://cdn.discordapp.com/attachments/164298870606528514/558578996325908480/NewFish8.png" alt=""></center>
+&nbsp;&nbsp;
+<center><img class= "img-responsive screenshots" src="https://cdn.discordapp.com/attachments/559513307220934676/561819441566842881/FishChanges.png" alt=""></center>
+    &nbsp;&nbsp;
+<center><img class= "img-responsive screenshots" src="https://cdn.discordapp.com/attachments/164298870606528514/560006834132615179/TheVision.png" alt="Vision1"></center>
+  &nbsp;&nbsp;
+  <center><img class= "img-responsive screenshots" src="https://cdn.discordapp.com/attachments/164298870606528514/560989428051476482/VisionPose.png" alt="Vision2"></center>
 
-<p> </p>
+</p>
     </center></div>
     <div class="col-sm-3" style="background: linear-gradient(360deg, #aaffbe,#aac7ff);"></div>
   </div>
